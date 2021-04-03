@@ -19,6 +19,6 @@ picamera
 ### u-blox 7 update rate 
 
 Set to 10hz:
-```ubxtool -p RATE,100 -P 14.00```
+```ubxtool -p CFG-RATE,100```
 
 
