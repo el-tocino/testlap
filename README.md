@@ -22,3 +22,9 @@ Set to 10hz:
 ```ubxtool -p CFG-RATE,100```
 
 
+
+#### accelerometer fun
+
+https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU  
+https://github.com/ozzmaker/BerryIMU/tree/master/python-BerryIMU-spirit-level  
+
